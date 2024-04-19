@@ -3,3 +3,6 @@ Neste arquivo colocamos descrição, introduções ou qualquer informação úti
 Acrescentando um novo texto ao arquivo 
 
 Mais uma alteração do arquivo
+
+
+🎭
